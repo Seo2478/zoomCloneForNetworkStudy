@@ -1,2 +1,2 @@
-# zoomCloneForNetworkStudy
-NomadCoderCloneCoding for studying network and websocket
+# Noom
+Zoom Clone using NodeJS, WebRTC and Websockets.
